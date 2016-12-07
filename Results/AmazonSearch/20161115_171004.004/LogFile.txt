@@ -1,0 +1,33 @@
+﻿2016-11-15 17:10:04.004 +0000	START		Running AmazonSearch.script
+2016-11-15 17:10:05.005 +0000	doubleclick	image0001	at (38, 254)	8	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:07.007 +0000	click	Notnow	at (596, 411)	9	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:08.008 +0000	click	CFIrefoxSearchorenteraddress	at (237, 62)	10	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:08.008 +0000	typetext		htt	11	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:09.009 +0000	typetext		p	12	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:10.010 +0000	typetext		s	13	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:11.011 +0000	typetext		:	14	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:11.011 +0000	typetext		/	15	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:12.012 +0000	keydown		/	16	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:13.013 +0000	keyup		/	17	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:14.014 +0000	typetext		w	18	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:14.014 +0000	keydown		w	19	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:15.015 +0000	keyup		w	20	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:16.016 +0000	typetext		w	21	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:17.017 +0000	typetext		.amazo	22	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:17.017 +0000	keydown		n	23	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:18.018 +0000	keyup		n	24	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:19.019 +0000	typetext		.	25	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:20.020 +0000	keydown		c	26	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:20.020 +0000	keyup		c	27	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:21.021 +0000	typetext		o.	28	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:22.022 +0000	keydown		u	29	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:23.023 +0000	keyup		u	30	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:23.023 +0000	typetext		k	31	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:24.024 +0000	typetext		[return]	32	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:25.025 +0000	click	image0002	at (269, 162)	33	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:26.026 +0000	typetext		pen	34	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:27.027 +0000	keydown		s	35	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:28.028 +0000	keyup		s	36	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:29.029 +0000	click	pensinAllDepartments	at (280, 200)	37	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:10:29.029 +0000	EndTestCase		(Duration:"24.297", Errors:"0", Exceptions:"0", StartTime:"2016-11-15 17:10:04 +0000", Successes:"1", TestCase:"AmazonSearch.script", Warnings:"0")
+2016-11-15 17:10:29.029 +0000	SUCCESS		Execution Time 0:00:25 AmazonSearch.script

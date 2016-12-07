@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="AmazonSearch">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-11-15 17:10:04 +0000</FirstRun>
+  <LastRun>2016-11-15 17:10:04 +0000</LastRun>
+  <TotalTimeOnSuccess>24.297000</TotalTimeOnSuccess>
+ </script>
+</statistics>

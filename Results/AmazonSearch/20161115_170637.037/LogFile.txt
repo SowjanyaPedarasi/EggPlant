@@ -1,0 +1,4 @@
+﻿2016-11-15 17:06:37.037 +0000	START		Running AmazonSearch.script
+2016-11-15 17:09:40.040 +0000	Exception	image0001	No Image Found On Screen: "image0001"	8	on_amazonsearch	AmazonSearch.script
+2016-11-15 17:09:40.040 +0000	EndTestCase		(Duration:"183.063", Errors:"1", Exceptions:"1", StartTime:"2016-11-15 17:06:37 +0000", Successes:"0", TestCase:"AmazonSearch.script", Warnings:"0")
+2016-11-15 17:09:40.040 +0000	ABORTED		Execution Time 0:03:03 AmazonSearch.script

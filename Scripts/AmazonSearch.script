@@ -1,0 +1,37 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2016-11-15 16:11:29
+  From session:  AmazonSearch
+  Captured on:  2016-11-15 16:08:43
+  From server:  10.1.121.106
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+DoubleClick "image0001"
+Click "Notnow"
+Click "CFIrefoxSearchorenteraddress"
+TypeText "htt"
+TypeText "p"
+TypeText "s"
+TypeText ":"
+TypeText "/"
+KeyDown "/"
+KeyUp "/"
+TypeText "w"
+KeyDown "w"
+KeyUp "w"
+TypeText "w"
+TypeText ".amazo"
+KeyDown "n"
+KeyUp "n"
+TypeText "."
+KeyDown "c"
+KeyUp "c"
+TypeText "o."
+KeyDown "u"
+KeyUp "u"
+TypeText "k"
+TypeText Return
+Click "image0002"
+TypeText "pen"
+KeyDown "s"
+KeyUp "s"
+Click "pensinAllDepartments"
